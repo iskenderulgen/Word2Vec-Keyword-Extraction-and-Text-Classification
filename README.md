@@ -1,4 +1,4 @@
-# Keyword Extraction and Text Classification
+# Apache Spark Keyword Extraction and Text Classification
 
 This project demonstrates a simplified or go-to approach to text classification by leveraging unsupervised learning to generate pseudo-labels for supervised (or semi-supervised) training. In the early stages of the project, labels are not available, so we rely on a Word2Vec model to extract keywords from a Reddit comments dataset. These keywords then serve as a basis to train a Logistic Regression classifier for final text classification. This project is available for research and educational purposes.
 
