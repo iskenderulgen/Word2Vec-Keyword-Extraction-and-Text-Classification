@@ -19,7 +19,7 @@ The project is split into two main phases:
 ## Dataset
 
 - **Source:** Reddit comments dataset available for research purposes  
-  [Reddit Comments Dataset](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/?rdt=64383)
+  [Reddit Comments Dataset](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
 - **Time Period:** July 2010
 - **Volume:** Approximately 65 million words
 - **Training Time:** Approximately 11 minutes on a 16-core processor
