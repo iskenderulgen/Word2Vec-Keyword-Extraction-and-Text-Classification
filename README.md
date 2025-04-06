@@ -44,11 +44,6 @@ The project is split into two main phases:
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/Keyword-Extraction.git
-   cd Keyword-Extraction
-   ```
-
 2. **Install Required Packages:**
 
    ```bash
